@@ -10,4 +10,13 @@ This tool is not used for scanning or checking ports
 4. install requirements `python3 -m pip install -r reuqirements.txt`
 5. run `python3 IPINFO.py`
 
-## 
+## Usage
+
+```
+python3 IPINFO.py
+
+Enter an IP address: <ip address>
+
+ip: {info}
+
+```
